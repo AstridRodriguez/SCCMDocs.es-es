@@ -26,7 +26,7 @@ ms.locfileid: "56137465"
 
  Para actualizar el producto a una nueva versión de la rama actual, use la consola de Configuration Manager para realizar la búsqueda y, seguidamente, [instalar actualizaciones en consola](/sccm/core/servers/manage/install-in-console-updates). Varias veces al año, se publican versiones nuevas de Microsoft con actualizaciones de productos. Cada versión incorpora asimismo nuevas características. Cuando instala una actualización con características nuevas, puede optar por usar esas características. 
 
- Las distintas versiones de actualización se identifican por año y mes. Por ejemplo, la versión 1511 corresponde a noviembre de 2015 (el mes en el que se envió a producción por primera vez la rama actual de Configuration Manager). Las siguientes actualizaciones tienen nombres de versión como 1802, que indica que la actualización se creó en febrero de 2018. Estas versiones de actualización son fundamentales para comprender la versión incremental de su instalación de Configuration Manager y las características que tiene disponibles para habilitarlas en su entorno.
+ Las distintas versiones de actualización se identifican por año y mes. Por ejemplo, la versión 1511 corresponde a noviembre de 2015 (el mes en el que se envió a producción por primera vez la rama actual de Configuration Manager). Las siguientes actualizaciones tienen nombres de versión como 1802, que indica que la actualización se creó en febrero de 2018. Estas versiones de actualización son fundamentales para comprender la versión incremental de su instalación de Configuration Manager y qué funciones están disponibles para habilitarlas en su entorno.
 
 
 
