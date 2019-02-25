@@ -296,7 +296,7 @@ Para más información, vea [Plan for the SMS Provider](/sccm/core/plan-design/h
 
 
 ### <a name="support-center"></a>Support Center
-<!--1357489--> Use el Centro de soporte técnico para solucionar los problemas de los clientes, visualizar los registros en tiempo real o capturar el estado de un equipo cliente de Configuration Manager para su posterior análisis. El Centro de soporte técnico es una única herramienta que combina muchas herramientas de solución de problemas de administrador. Puede encontrar el programa de instalación de Support Center en el servidor de sitio en la carpeta **cd.latest\SMSSETUP\Tools\SupportCenter**.
+<!--1357489--> Use el Centro de soporte técnico para solucionar los problemas de los clientes, visualizar los registros en tiempo real o capturar el estado de un equipo cliente de Configuration Manager para su posterior análisis. El Centro de soporte técnico es una herramienta única que combina muchas herramientas de solución de problemas de administrador. Puede encontrar el programa de instalación de Support Center en el servidor de sitio en la carpeta **cd.latest\SMSSETUP\Tools\SupportCenter**.
 
 Para obtener más información, vea [Centro de soporte técnico](/sccm/core/support/support-center).
 
@@ -304,7 +304,7 @@ Para obtener más información, vea [Centro de soporte técnico](/sccm/core/supp
 ### <a name="management-insights-dashboard"></a>Panel Información de administración
 <!--1357979-->
 
-El nodo **Información de administración** ahora incluye un panel gráfico. Este panel muestra información general de los estados de la regla, con lo que le resultará más fácil mostrar el progreso. En el panel se incluyen los iconos siguientes:
+El nodo **Información de administración** ahora incluye un panel gráfico. Este panel muestra una descripción general de los estados de la regla, lo que le facilita mostrar su progreso. En el panel se incluyen los iconos siguientes:
 
 - **Índice de Información de administración**: realiza el seguimiento del progreso general en las reglas de información de administración. El índice es un promedio ponderado. Las reglas críticas valen más. Este índice proporciona el menor peso a las reglas opcionales.  
 
